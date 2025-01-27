@@ -42,7 +42,3 @@ Os estilos são definidos no arquivo `style.css` e incluem:
 ## Imagens
 
 As imagens utilizadas na aplicação estão na pasta `assets/`.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
