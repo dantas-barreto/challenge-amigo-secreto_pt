@@ -23,6 +23,11 @@ function atualizarListaAmigos() {
     }
 }
 
+function sortearAmigo() {
+    let sorteado = amigos[Math.floor(Math.random() * amigos.length)];
+    document.getElementById('resultado').textContent = sorteado;
+}
+
 function limparCampo() {
     amigo = document.querySelector('input');
     amigo.value = '';
